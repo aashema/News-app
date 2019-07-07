@@ -1,0 +1,20 @@
+
+ #navbar{
+   position: fixed;
+   float:left;
+ }
+ .vertical-menu {
+   width: 120px;
+   height: 500px;
+   overflow-y: auto;
+ }
+ .content{
+    margin-left:200px;
+ }
+ .card{
+   margin:100px;
+ }
+ .head{
+   text-align:center;
+   color:darkslategray;
+ }
